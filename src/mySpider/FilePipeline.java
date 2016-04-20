@@ -30,7 +30,7 @@ public class FilePipeline extends FilePersistentBase implements Pipeline {
      * create a FilePipeline with default path"/data/webmagic/"
      */
     public FilePipeline() {
-        setPath("/data/");
+        setPath("/Users/xyk0058/Desktop/spiderResult/");
     }
 
     public FilePipeline(String path) {
@@ -42,19 +42,13 @@ public class FilePipeline extends FilePersistentBase implements Pipeline {
         String path = this.path + "data.txt";
         try {
             PrintWriter printWriter = new PrintWriter(
-            		new OutputStreamWriter(new FileOutputStream(getFile(path)),"UTF-8"));
+            		new OutputStreamWriter(new FileOutputStream(getFile(path),true),"UTF-8"));
             printWriter.println("url:\t" + resultItems.getRequest().getUrl());
-            for (Map.Entry<String, Object> entry : resultItems.getAll().entrySet()) {
-                if (entry.getValue() instanceof Iterable) {
-                    Iterable value = (Iterable) entry.getValue();
-                    printWriter.println(entry.getKey() + ":");
-                    for (Object o : value) {
-                        printWriter.println(o);
-                    }
-                } else {
-                    printWriter.println(entry.getKey() + ":\t" + entry.getValue());
-                }
-            }
+            //System.out.println("get page: " + resultItems.getRequest().getUrl());
+            //遍历所有结果，输出到控制台，上面例子中的"author"、"name"、"readme"都是一个key，其结果则是对应的value
+//            for (Map.Entry<String, Object> entry : resultItems.getAll().entrySet()) {
+//                System.out.println(entry.getKey() + ":\t" + entry.getValue());
+//            }
             printWriter.close();
         } catch (IOException e) {
             logger.warn("write file error", e);

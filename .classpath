@@ -2,29 +2,29 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/assertj-core-1.5.0.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-io-1.3.2.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-lang3-3.1.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/commons-pool-1.5.5.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/fastjson-1.1.37.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/guava-15.0.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/httpclient-4.3.3.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/httpcore-4.3.2.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/jedis-2.0.0.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/json-path-0.8.1.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/json-smart-1.1.1.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/jsoup-1.7.2.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/junit-4.11.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/slf4j-api-1.7.6.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/slf4j-log4j12-1.7.6.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/webmagic-core-0.5.2.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/webmagic-extension-0.5.2.jar"/>
-	<classpathentry kind="lib" path="E:/webmagic dependency/xsoup-0.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/assertj-core-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/fastjson-1.1.37.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/jedis-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/json-path-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/webmagic-core-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/webmagic-extension-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xyk0058/Git/webmagic/lib/xsoup-0.2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
