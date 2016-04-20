@@ -1,0 +1,759 @@
+15-11-30 23:45:03,125 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/isnowfy/snownlp
+15-11-30 23:45:03,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/NLPchina/ansj_seg
+15-11-30 23:45:03,296 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/aidenzou/vue
+15-11-30 23:45:03,359 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/NLPchina/nlp
+15-11-30 23:45:03,640 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/NLPchina/nlp
+15-11-30 23:45:04,078 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/enterprise/2
+15-11-30 23:45:04,390 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/enterprise/2
+15-11-30 23:45:04,484 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/enterprise/11
+15-11-30 23:45:04,562 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/categories/site
+15-11-30 23:45:04,593 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/articles/amendment
+15-11-30 23:45:04,750 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/enterprise/11
+15-11-30 23:45:04,875 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/categories/site
+15-11-30 23:45:04,906 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/articles/amendment
+15-11-30 23:45:04,937 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/articles/github
+15-11-30 23:45:05,218 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/articles/github
+15-11-30 23:45:05,687 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/orgs/twbs
+15-11-30 23:45:06,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jneen/rouge
+15-11-30 23:45:06,156 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mdo/code
+15-11-30 23:45:06,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/Bilibili/NativeBitmapFactory
+15-11-30 23:45:06,468 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/mdo/code
+15-11-30 23:45:06,515 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/FasterXML/jackson
+15-11-30 23:45:07,437 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/igrigorik/ga
+15-11-30 23:45:07,437 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/icepy/manong
+15-11-30 23:45:07,578 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/hparra/gulp
+15-11-30 23:45:07,703 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/igrigorik/ga
+15-11-30 23:45:07,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/imagemin/imagemin
+15-11-30 23:45:07,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ecomfe/gulp
+15-11-30 23:45:08,718 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/ecomfe/gulp
+15-11-30 23:45:08,968 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/junmer/fontmin
+15-11-30 23:45:09,000 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ecomfe/fonteditor
+15-11-30 23:45:09,125 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/daneden/animate
+15-11-30 23:45:09,250 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/junmer/fontmin
+15-11-30 23:45:09,406 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/daneden/animate
+15-11-30 23:45:09,843 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sloria/TextBlob
+15-11-30 23:45:10,296 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/nlpchina/nlp
+15-11-30 23:45:10,375 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/gruntworker
+15-11-30 23:45:10,531 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/rorschach
+15-11-30 23:45:10,609 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/nlpchina/nlp
+15-11-30 23:45:10,687 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/grunt
+15-11-30 23:45:10,968 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/twbs/grunt
+15-11-30 23:45:11,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/mq4
+15-11-30 23:45:11,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/twbs/mq4
+15-11-30 23:45:11,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/bootlint
+15-11-30 23:45:11,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/ratchet
+15-11-30 23:45:11,906 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jharding/grunt
+15-11-30 23:45:12,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/savage
+15-11-30 23:45:12,781 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/no
+15-11-30 23:45:13,046 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/twbs/no
+15-11-30 23:45:13,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/tmm1/pygments
+15-11-30 23:45:13,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/middleman/middleman
+15-11-30 23:45:13,390 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/Linuus/middleman
+15-11-30 23:45:13,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/tmm1/pygments
+15-11-30 23:45:13,671 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/zzak/rdoc
+15-11-30 23:45:14,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/joschi/jackson
+15-11-30 23:45:14,609 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/joschi/jackson
+15-11-30 23:45:14,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/lldata/jackson
+15-11-30 23:45:14,765 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/v1ctor/jackson
+15-11-30 23:45:14,796 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/bramp/jackson
+15-11-30 23:45:15,015 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/lldata/jackson
+15-11-30 23:45:15,031 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/v1ctor/jackson
+15-11-30 23:45:15,062 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/zalando/jackson
+15-11-30 23:45:15,062 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/bramp/jackson
+15-11-30 23:45:15,328 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/zalando/jackson
+15-11-30 23:45:15,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/javaslang/javaslang
+15-11-30 23:45:16,296 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/swquinn/jackson
+15-11-30 23:45:16,328 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/bedatadriven/jackson
+15-11-30 23:45:16,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/xebia/jackson
+15-11-30 23:45:16,578 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/swquinn/jackson
+15-11-30 23:45:16,593 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/bedatadriven/jackson
+15-11-30 23:45:16,609 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/xebia/jackson
+15-11-30 23:45:16,640 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/tburch/jackson
+15-11-30 23:45:16,968 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/tburch/jackson
+15-11-30 23:45:17,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/objectify/objectify
+15-11-30 23:45:17,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/HubSpot/jackson
+15-11-30 23:45:17,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/Crunc/jackson
+15-11-30 23:45:17,890 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/caligin/tinytypes
+15-11-30 23:45:18,187 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/HubSpot/jackson
+15-11-30 23:45:18,187 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/Crunc/jackson
+15-11-30 23:45:18,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/komamitsu/jackson
+15-11-30 23:45:18,546 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/komamitsu/jackson
+15-11-30 23:45:18,562 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jclawson/jackson
+15-11-30 23:45:18,859 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/jclawson/jackson
+15-11-30 23:45:19,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/typesafehub/config
+15-11-30 23:45:19,468 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/emberjs/ember
+15-11-30 23:45:19,468 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/Antibrumm/jackson
+15-11-30 23:45:19,734 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/emberjs/ember
+15-11-30 23:45:19,750 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/Antibrumm/jackson
+15-11-30 23:45:19,828 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/gulpjs/gulp
+15-11-30 23:45:20,140 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/robrich/orchestrator
+15-11-30 23:45:20,718 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sindresorhus/gulp
+15-11-30 23:45:21,015 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/gruntjs/grunt
+15-11-30 23:45:21,015 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/sindresorhus/gulp
+15-11-30 23:45:21,015 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/lcepy/manong
+15-11-30 23:45:21,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/kekee000/fonteditor
+15-11-30 23:45:21,562 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/kekee000/fonteditor
+15-11-30 23:45:21,828 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/eclipse/egit
+15-11-30 23:45:22,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cvrebert/lmvtfy
+15-11-30 23:45:22,390 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sstephenson/sprockets
+15-11-30 23:45:22,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/rdoc/rdoc
+15-11-30 23:45:23,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/thlorenz/doctoc
+15-11-30 23:45:23,687 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/racc/typesafeconfig
+15-11-30 23:45:23,765 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ceedubs/ficus
+15-11-30 23:45:23,796 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/arosien/configz
+15-11-30 23:45:23,953 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/racc/typesafeconfig
+15-11-30 23:45:24,203 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/kxbmap/configs
+15-11-30 23:45:24,671 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/wacai/config
+15-11-30 23:45:24,968 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/wacai/config
+15-11-30 23:45:25,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/melrief/pureconfig
+15-11-30 23:45:25,281 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/beamly/beamly
+15-11-30 23:45:25,375 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/puppetlabs/ruby
+15-11-30 23:45:25,562 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/beamly/beamly
+15-11-30 23:45:25,609 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/chimpler/pyhocon
+15-11-30 23:45:25,656 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/puppetlabs/ruby
+15-11-30 23:45:26,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/puppetlabs/cpp
+15-11-30 23:45:26,531 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/puppetlabs/cpp
+15-11-30 23:45:26,640 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/contra/gulp
+15-11-30 23:45:26,843 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ahaurw01/gulp
+15-11-30 23:45:26,890 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/contra/gulp
+15-11-30 23:45:26,937 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/tschaub/gulp
+15-11-30 23:45:26,984 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/orchestrator/orchestrator
+15-11-30 23:45:27,828 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/validator/validator
+15-11-30 23:45:28,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jcabi/jcabi
+15-11-30 23:45:28,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twitter/twitter
+15-11-30 23:45:28,296 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cvrebert/savage
+15-11-30 23:45:28,390 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/rails/sprockets
+15-11-30 23:45:28,515 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/twitter/twitter
+15-11-30 23:45:29,171 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sstephenson/execjs
+15-11-30 23:45:29,562 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sstephenson/ruby
+15-11-30 23:45:29,796 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sstephenson/eco
+15-11-30 23:45:29,828 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/milessabin/shapeless
+15-11-30 23:45:29,859 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/sstephenson/ruby
+15-11-30 23:45:29,968 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/lemurheavy/coveralls
+15-11-30 23:45:30,265 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/lemurheavy/coveralls
+15-11-30 23:45:30,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/wearefractal/gulp
+15-11-30 23:45:31,125 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/validator/htmlparser
+15-11-30 23:45:31,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/relaxng/jing
+15-11-30 23:45:31,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/validator/tests
+15-11-30 23:45:31,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/relaxng/jing
+15-11-30 23:45:31,578 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jzaefferer/grunt
+15-11-30 23:45:32,203 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/watilde/gulp
+15-11-30 23:45:32,484 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/svenkreiss/html5validator
+15-11-30 23:45:32,562 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/rails/execjs
+15-11-30 23:45:32,781 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/rtomayko/tilt
+15-11-30 23:45:32,937 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cowboyd/therubyracer
+15-11-30 23:45:33,593 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cowboyd/therubyrhino
+15-11-30 23:45:33,875 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cowboyd/commonjs
+15-11-30 23:45:33,937 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sbt/sbt
+15-11-30 23:45:34,156 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/cowboyd/commonjs
+15-11-30 23:45:34,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/w3c/web
+15-11-30 23:45:34,328 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mishoo/UglifyJS
+15-11-30 23:45:34,531 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/w3c/web
+15-11-30 23:45:34,984 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/caolan/nodeunit
+15-11-30 23:45:35,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/svenkreiss/svenkreiss
+15-11-30 23:45:35,437 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/judofyr/duktape
+15-11-30 23:45:35,625 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/svenkreiss/svenkreiss
+15-11-30 23:45:35,718 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/judofyr/duktape
+15-11-30 23:45:35,765 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cowboyd/libv8
+15-11-30 23:45:35,812 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/rhino
+15-11-30 23:45:36,421 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mishoo/UglifyJS2
+15-11-30 23:45:36,921 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/cjohansen/nodeunit
+15-11-30 23:45:36,984 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/gerad/nodeunit
+15-11-30 23:45:37,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/lambdalisue/nodeunit
+15-11-30 23:45:37,234 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/reinh/vim
+15-11-30 23:45:37,500 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/reinh/vim
+15-11-30 23:45:37,906 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/tc39/test262
+15-11-30 23:45:38,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/marijnh/acorn
+15-11-30 23:45:38,359 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/source
+15-11-30 23:45:39,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/playdoh
+15-11-30 23:45:39,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ternjs/acorn
+15-11-30 23:45:39,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/funfactory
+15-11-30 23:45:39,812 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/estree/estree
+15-11-30 23:45:40,046 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/Constellation/escodegen
+15-11-30 23:45:40,593 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/RReverser/acorn
+15-11-30 23:45:40,625 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/sugardough
+15-11-30 23:45:40,703 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jquery/esprima
+15-11-30 23:45:41,140 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/babel/babel
+15-11-30 23:45:41,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/estools/escodegen
+15-11-30 23:45:42,000 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/audreyr/cookiecutter
+15-11-30 23:45:42,000 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/henriquebastos/python
+15-11-30 23:45:42,109 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/docker/compose
+15-11-30 23:45:42,296 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/henriquebastos/python
+15-11-30 23:45:42,593 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/erikrose/peep
+15-11-30 23:45:43,156 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mozilla/django
+15-11-30 23:45:43,421 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sloria/cookiecutter
+15-11-30 23:45:43,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/mozilla/django
+15-11-30 23:45:43,515 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/JackStouffer/cookiecutter
+15-11-30 23:45:43,562 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/avelino/cookiecutter
+15-11-30 23:45:43,828 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/JackStouffer/cookiecutter
+15-11-30 23:45:43,875 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/avelino/cookiecutter
+15-11-30 23:45:44,015 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/pythonhub/cookiecutter
+15-11-30 23:45:44,281 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/pythonhub/cookiecutter
+15-11-30 23:45:44,765 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/hackebrot/cookiecutter
+15-11-30 23:45:44,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/hackebrot/cookiedozer
+15-11-30 23:45:45,109 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/borntyping/cookiecutter
+15-11-30 23:45:45,156 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/iknite/cookiecutter
+15-11-30 23:45:45,406 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/borntyping/cookiecutter
+15-11-30 23:45:45,453 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/iknite/cookiecutter
+15-11-30 23:45:45,578 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ionelmc/cookiecutter
+15-11-30 23:45:46,156 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/robinandeer/cookiecutter
+15-11-30 23:45:46,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/pybee/Python
+15-11-30 23:45:46,531 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/pybee/Python
+15-11-30 23:45:46,656 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/fulfilio/cookiecutter
+15-11-30 23:45:46,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/vintasoftware/cookiecutter
+15-11-30 23:45:46,937 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/fulfilio/cookiecutter
+15-11-30 23:45:47,046 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/vintasoftware/tapioca
+15-11-30 23:45:47,312 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/vintasoftware/tapioca
+15-11-30 23:45:47,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/kkujawinski/cookiecutter
+15-11-30 23:45:47,812 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/drgarcia1986/cookiecutter
+15-11-30 23:45:48,140 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/OctoPrint/cookiecutter
+15-11-30 23:46:08,328 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider github.com started!
+15-11-30 23:46:08,328 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft
+15-11-30 23:46:12,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/stars/code4craft
+15-11-30 23:46:12,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/webmagic
+15-11-30 23:46:12,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/netty
+15-11-30 23:46:12,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/following
+15-11-30 23:46:12,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/followers
+15-11-30 23:46:12,890 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/code4craft/netty
+15-11-30 23:46:13,484 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/jsoup
+15-11-30 23:46:14,062 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/tiny
+15-11-30 23:46:14,078 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft/blackhole
+15-11-30 23:46:14,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ipiaoniu/piaoniu
+15-11-30 23:46:14,343 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/code4craft/tiny
+15-11-30 23:46:14,437 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/ipiaoniu/ipiaoniu
+15-11-30 23:46:14,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/ipiaoniu/piaoniu
+15-11-30 23:46:14,734 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/ipiaoniu/ipiaoniu
+15-11-30 23:46:14,875 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/site/terms
+15-11-30 23:46:15,453 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/site/privacy
+15-11-30 23:46:15,640 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/mybatis/spring
+15-11-30 23:46:16,031 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/weui/weui
+15-11-30 23:46:16,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/hankcs/hanlp
+15-11-30 23:46:17,000 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/hankcs/HanLP
+15-11-30 23:46:17,406 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/sparkalow/angular
+15-11-30 23:46:17,687 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/sparkalow/angular
+15-11-30 23:46:17,703 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/supersheep/wechat
+15-11-30 23:46:17,765 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/someus/another
+15-11-30 23:46:17,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/PingPlusPlus/pingpp
+15-11-30 23:46:18,000 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/supersheep/wechat
+15-11-30 23:46:18,046 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/someus/another
+15-11-30 23:46:18,390 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/jsx/JSX
+15-11-30 23:46:18,640 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/PingPlusPlus/pingpp
+15-11-30 23:46:19,000 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/roderickwang/Blossom
+15-11-30 23:46:19,265 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/kdabir/awesome
+15-11-30 23:46:19,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/influxdb/influxdb
+15-11-30 23:46:19,531 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:100) ## code error 404	https://github.com/kdabir/awesome
+15-11-30 23:46:19,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/twbs/bootstrap
+15-11-30 23:46:20,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/puppetlabs/puppet
+15-11-30 23:47:16,500 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider github.com started!
+15-11-30 23:47:16,500 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft
+15-12-01 00:00:41,171 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider github.com started!
+15-12-01 00:00:41,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft
+15-12-01 00:02:15,187 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider github.com started!
+15-12-01 00:02:15,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft
+15-12-01 00:02:34,359 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider github.com started!
+15-12-01 00:02:34,359 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page https://github.com/code4craft
+15-12-01 00:29:50,906 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:29:50,906 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 00:29:51,375 ERROR us.codecraft.webmagic.Spider(Spider.java:326) ## process request Request{url='http://pt.zhixing.bjtu.edu.cn/search/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: invalid regex
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:39)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at mySpider.MyPageProcessor.process(MyPageProcessor.java:17)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.util.regex.PatternSyntaxException: Dangling meta character '*' near index 1
+(*/search/p*)
+ ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.group0(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:37)
+	... 10 more
+15-12-01 00:30:28,343 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:30:28,359 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 00:32:48,281 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:32:48,296 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:33:30,203 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:33:30,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:34:53,656 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:34:53,671 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:35:32,906 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:35:32,906 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:35:51,515 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:35:51,515 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:36:23,546 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:36:23,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:36:23,906 ERROR us.codecraft.webmagic.Spider(Spider.java:326) ## process request Request{url='http://pt.zhixing.bjtu.edu.cn/torrents/573294/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: invalid regex
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:39)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at mySpider.MyPageProcessor.process(MyPageProcessor.java:16)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.util.regex.PatternSyntaxException: Unclosed group near index 42
+(http://pt.zhixing.bjtu.edu.cn/search\w+\)
+                                          ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.accept(Unknown Source)
+	at java.util.regex.Pattern.group0(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:37)
+	... 10 more
+15-12-01 00:38:04,218 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:38:04,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:38:04,578 ERROR us.codecraft.webmagic.Spider(Spider.java:326) ## process request Request{url='http://pt.zhixing.bjtu.edu.cn/torrents/573294/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: invalid regex
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:39)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at mySpider.MyPageProcessor.process(MyPageProcessor.java:16)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.util.regex.PatternSyntaxException: Unclosed group near index 47
+(http://pt\.zhixing\.bjtu\.edu\.cn/search/\w+\)
+                                               ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.accept(Unknown Source)
+	at java.util.regex.Pattern.group0(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:37)
+	... 10 more
+15-12-01 00:39:59,578 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:39:59,578 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:40:15,546 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:40:15,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:41:38,875 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:41:38,875 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:43:05,734 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:43:05,734 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:43:30,000 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:43:30,015 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:43:39,406 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:43:39,406 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:43:55,812 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:43:55,812 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:57:35,000 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:57:35,015 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:57:46,484 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:57:46,484 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 00:59:19,421 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 00:59:19,421 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:25:34,046 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:25:34,046 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:27:07,640 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:27:07,640 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:27:46,437 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:27:46,453 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:29:01,062 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:29:01,062 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:34:26,750 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:34:26,750 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:34:28,609 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:34:28,625 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:34:55,437 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:34:55,437 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/torrents/573294/
+15-12-01 10:35:16,531 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:35:16,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:35:34,375 ERROR us.codecraft.webmagic.Spider(Spider.java:326) ## process request Request{url='http://pt.zhixing.bjtu.edu.cn/search/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: invalid regex
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:39)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at mySpider.MyPageProcessor.process(MyPageProcessor.java:18)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.util.regex.PatternSyntaxException: Dangling meta character '*' near index 1
+(*/search/pw+)
+ ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.group0(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:37)
+	... 10 more
+15-12-01 10:36:15,875 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:36:15,875 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:37:24,234 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:37:24,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:38:54,343 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:38:54,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:39:02,484 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138)
+	at com.sun.proxy.$Proxy2.receiveResponseHeader(Unknown Source)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:39:25,218 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:39:25,218 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:39:32,281 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:39:43,640 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:39:43,640 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:39:53,375 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:40:10,859 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:40:10,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:40:47,125 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:40:47,140 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:40:57,437 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:41:03,890 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:41:03,906 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:41:10,750 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138)
+	at com.sun.proxy.$Proxy2.receiveResponseHeader(Unknown Source)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:41:16,203 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:41:16,203 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:41:25,234 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:41:33,593 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:41:33,593 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:41:42,203 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138)
+	at com.sun.proxy.$Proxy2.receiveResponseHeader(Unknown Source)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:42:09,937 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:42:09,937 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:42:19,859 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:42:19,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:42:34,078 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:42:37,531 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:42:37,531 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:42:50,531 WARN  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:104) ## download page http://pt.zhixing.bjtu.edu.cn/search/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:189)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:178)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:408)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+15-12-01 10:42:54,453 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:42:54,453 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:43:39,531 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:43:39,531 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 10:44:06,343 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 10:44:06,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:13:00,828 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:13:00,859 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:15:03,406 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:15:03,421 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:15:25,250 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:15:25,250 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:16:10,328 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:16:10,343 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:17:51,453 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:17:51,468 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:18:28,187 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:18:28,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:18:31,234 ERROR us.codecraft.webmagic.Spider(Spider.java:326) ## process request Request{url='http://pt.zhixing.bjtu.edu.cn/search/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalArgumentException: invalid regex
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:39)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:45)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at mySpider.MyPageProcessor.process(MyPageProcessor.java:21)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.util.regex.PatternSyntaxException: Dangling meta character '*' near index 1
+(*/torrents/*)
+ ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.group0(Unknown Source)
+	at java.util.regex.Pattern.sequence(Unknown Source)
+	at java.util.regex.Pattern.expr(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:37)
+	... 10 more
+15-12-01 11:20:53,296 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:20:53,312 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:21:53,031 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:21:53,046 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:22:39,875 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:22:39,875 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:23:01,546 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:23:01,546 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
+15-12-01 11:26:35,171 INFO  us.codecraft.webmagic.Spider(Spider.java:307) ## Spider pt.zhixing.bjtu.edu.cn started!
+15-12-01 11:26:35,187 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(HttpClientDownloader.java:87) ## downloading page http://pt.zhixing.bjtu.edu.cn/search/
